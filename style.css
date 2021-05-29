@@ -64,7 +64,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: hiddengit a;
+    overflow: hidden;
 }
 
 section::before{
